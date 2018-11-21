@@ -1,0 +1,26 @@
+{
+  "name": "Brightness",
+  "version": "0.1.0",
+  "description": "This plugin gives you the ability to get and set the screen brightness",
+  "cordova": {
+    "id": "org.apache.cordova.plugin.Brightness.BrightnessPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wedigitek/phonegap-plugin-brightness.git"
+  },
+  "keywords": [
+    "Brightness"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Evgeniy Lukovsky",
+  "license": "MIT"
+}
